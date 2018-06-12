@@ -11,7 +11,7 @@
   </welcome-file-list>
   <servlet>
     <servlet-name>Index</servlet-name>
-    <jsp-file>/index.html</jsp-file>
+    <jsp-file>/index.jsp</jsp-file>
   </servlet>
   <servlet-mapping>
     <servlet-name>Index</servlet-name>
@@ -27,7 +27,7 @@
   </servlet-mapping>
   <servlet>
     <servlet-name>BmiMore</servlet-name>
-    <jsp-file>/bmiMore.html</jsp-file>
+    <jsp-file>/bmiMore.jsp</jsp-file>
   </servlet>
   <servlet-mapping>
     <servlet-name>BmiMore</servlet-name>
@@ -35,7 +35,7 @@
   </servlet-mapping>
   <servlet>
     <servlet-name>BmiChart</servlet-name>
-    <jsp-file>/bmiChart.html</jsp-file>
+    <jsp-file>/bmiChart.jsp</jsp-file>
   </servlet>
   <servlet-mapping>
     <servlet-name>BmiChart</servlet-name>
